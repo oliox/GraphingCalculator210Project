@@ -1,0 +1,10 @@
+{"equationList": [
+    {
+        "windowSize": 10,
+        "equation": "y=4x"
+    },
+    {
+        "windowSize": 10,
+        "equation": "y=0.5x+5"
+    }
+]}

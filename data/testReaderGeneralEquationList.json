@@ -1,0 +1,10 @@
+{"equationList": [
+    {
+        "windowSize": 10,
+        "equation": "y=3x+1"
+    },
+    {
+        "windowSize": 10,
+        "equation": "y=x"
+    }
+]}
